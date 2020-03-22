@@ -25,6 +25,10 @@ function set_button_activation_state(button, state) {
     }
 }
 
+document.getElementById("help").addEventListener("click", function () {
+    window.open("https://kaminingyou.github.io/moderation/");
+});
+
 function run_on_focused_tab(callback){
     chrome.tabs.query({active: true, currentWindow: true}, callback);
 }

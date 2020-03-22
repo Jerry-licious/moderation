@@ -1,6 +1,6 @@
 {
   "name": "Google Meet Moderation Tool",
-  "version": "0.1",
+  "version": "0.2",
   "description": "A tool with basic functions that can help moderating a meeting.",
   "permissions": ["activeTab", "declarativeContent", "storage"],
   "background": {
