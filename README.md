@@ -8,7 +8,7 @@ The extension is not available on the Google Web Store ~~because I can't afford 
 
 #### 1. Download
 
-The extension is available on [GitHub](https://github.com/kaminingyou/moderation/releases/tag/0.1), find the latest release and download the zip file (**0.2.zip**). After downloading, extract the zip file. 
+The extension is available on [GitHub](https://github.com/kaminingyou/moderation/releases/tag/0.2), find the latest release and download the zip file (**0.2.zip**). After downloading, extract the zip file. 
 
 #### 2. Developer Mode
 
